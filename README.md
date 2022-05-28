@@ -1,2 +1,2 @@
 # HMC
-Improving Hamiltonian Montecarlo with adaptive step simplectic integrators. 
+Improving Hamiltonian Monte Carlo with adaptive step symplectic integrators.
